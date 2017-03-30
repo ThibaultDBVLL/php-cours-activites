@@ -30,7 +30,7 @@ Afficher la liste des emails entrés dans le fichier, dans votre navigateur. Je 
 ## Super Bonus
 Lorsque l'internaute soumet le formulaire, enregistrez dans le fichier la date et l'heure en plus de l'email.
 
-Enfin afficher sous forme d'un tableau l'email et l'heure de soumission. Exemple : 
+Enfin afficher sous forme d'un tableau l'email et l'heure de soumission. Exemple :
 
 |Email           |Date            |
 |:--------------:|:----------------:|
